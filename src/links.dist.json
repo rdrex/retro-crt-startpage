@@ -21,9 +21,9 @@
       ]
     },
     {
-      "name": "Gitea",
-      "url": "https://gitea.io",
-      "icon": "icon-gitea.png",
+      "name": "Github",
+      "url": "https://github.com",
+      "icon": "icon-github.png",
       "invert": false,
       "tags": [
         "git",
